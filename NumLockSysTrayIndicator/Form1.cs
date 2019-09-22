@@ -10,7 +10,7 @@ using System.Windows.Forms;
 /// Keyboard Hook Code based on https://blogs.msdn.microsoft.com/toub/2006/05/03/low-level-keyboard-hook-in-c/
 /// </summary>
 
-namespace NumLockSysTrayIdicator
+namespace NumLockSysTrayIndicator
 {
 
     public partial class MainForm : Form

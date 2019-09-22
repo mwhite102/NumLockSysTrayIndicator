@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumLockSysTrayIdicator", "NumLockSysTrayIdicator\NumLockSysTrayIdicator.csproj", "{F8A08BE4-C36B-4326-A222-F97933849670}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumLockSysTrayIndicator", "NumLockSysTrayIndicator\NumLockSysTrayIndicator.csproj", "{F8A08BE4-C36B-4326-A222-F97933849670}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

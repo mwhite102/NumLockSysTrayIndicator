@@ -1,4 +1,4 @@
-﻿namespace NumLockSysTrayIdicator
+﻿namespace NumLockSysTrayIndicator
 {
     partial class MainForm
     {
