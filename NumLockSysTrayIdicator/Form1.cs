@@ -139,7 +139,6 @@ namespace NumLockSysTrayIdicator
             }
             return CallNextHookEx(_hookID, nCode, wParam, lParam);
         }
-
         
         /// <summary>
         /// Updates the notify icon text and icon
@@ -171,9 +170,6 @@ namespace NumLockSysTrayIdicator
             Application.Exit();
         }
 
-
         #endregion
-
-
     }
 }
